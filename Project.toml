@@ -3,6 +3,9 @@ uuid = "1f02aab5-a0ad-4486-86b8-ea50dc984f9d"
 authors = ["Mark Dransfield"]
 version = "0.1.0"
 
+[deps]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
 [compat]
 julia = "1"
 

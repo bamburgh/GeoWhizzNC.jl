@@ -1,5 +1,9 @@
 module GeoWhizzNC
 
-# Write your package code here.
+	using Printf
 
+	export linelength
+
+	include("whizzReporter.jl")
+	include("xyzReader.jl")
 end
